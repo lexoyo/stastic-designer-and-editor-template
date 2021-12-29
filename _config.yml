@@ -12,7 +12,7 @@ theme_color: black
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
-baseurl: '/_pendante_pommes'
+baseurl: '/stastic-designer-and-editor-template'
 
 # Defaults
 
